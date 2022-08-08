@@ -1,5 +1,6 @@
 ### Hi there 👋, 
 ### I'm Wendler Tenorio, be welcome! 
+⚡ Let's learn together!
 
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wendller&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -27,15 +28,11 @@
   <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
-
-## 
-
-⚡ Let's learn together!
  
 ## 
  
 <div> 
-  <p>📫 How to reach me: </p>
+  <p><strong>📫 How to reach me:</strong></p>
   <a href = "mailto:wendlerdeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wendller" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
