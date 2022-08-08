@@ -3,7 +3,6 @@
 
 - 🔭 I've already worked with: JavaScript/TypeScript, React, Next.js, Elixir, Phoenix Framework, Postgres
 - 🌱 I’m currently learning: Fundamentals of DevOps, Node.js
- wendlerdeveloper@gmail.com
 - ⚡ Let's learn together!
 
 <div align="left">
